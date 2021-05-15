@@ -116,4 +116,4 @@ client.on('message', message => {
     }
 })
 // made by anti with love <3
-client.login(SETTINGS.BOT_TOKEN);
+client.login(842978558309171262);
